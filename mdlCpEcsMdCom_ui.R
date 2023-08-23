@@ -9,8 +9,9 @@ tabItem(tabName = "mdlCpEcsMdCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlCpEcsMdUI::materialUI(),
                                     mdlCpEcsMdUI::customerUI(),
+                                    mdlCpEcsMdUI::materialUI(),
+                                    
                                     mdlCpEcsMdUI::supplierUI()
                                   
                                      
